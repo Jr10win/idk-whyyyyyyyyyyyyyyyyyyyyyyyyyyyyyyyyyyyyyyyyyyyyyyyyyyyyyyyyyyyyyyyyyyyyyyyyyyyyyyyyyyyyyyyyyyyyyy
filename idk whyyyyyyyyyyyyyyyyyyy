@@ -1,0 +1,2 @@
+customer1 = {'id': 'abc123', 'full_name': 'Master'}
+customer2 = {'id': 'def456', 'full_name': 'obi-wan rape'}
