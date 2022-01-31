@@ -2,3 +2,4 @@ customer1 = {'id': 'abc123', 'full_name': 'Master'}
 customer2 = {'id': 'def456', 'full_name': 'obi-wan rape'}
 customer3 = {'id': 'ghi789', 'full_name': 'idk-why'}
 customers = (customer1, customer2, customer3)
+print: "hello bitch"
